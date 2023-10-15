@@ -86,7 +86,6 @@
     </div>
   </md-toolbar>
 </template>
-
 <script>
 export default {
   data() {
